@@ -1,9 +1,9 @@
 # Lab 1: Node.js and Express Server
 
 ## Student Details
-- Name: Your Name
-- Registration Number: Your Registration Number
-- Section: Your Section
+- Name: B.Ajay
+- Registration Number: 252U1R9020
+- Section: CSE GEN AI (304)
 
 ## Objective
 Create a Node.js web server using the built-in HTTP module and Express, add routes, and return appropriate HTTP status codes.
