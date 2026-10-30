@@ -1,6 +1,6 @@
 # Lab 2: SQLite database and CRUD routes
 
-**Name:** B.Ajay
+**Name:** B.Ajay 
 **Registration number:** 252U1R9020  
 **Section:** CSE GEN AI (304)
 
