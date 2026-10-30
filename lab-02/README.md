@@ -18,7 +18,7 @@ Connect an Express server to SQLite and provide CRUD operations for books.
    ```bash
    npm run dev
    ```
-5. Server URL: `http://localhost:3000`
+5. Server URL: https://backend-labs-2-ditn.onrender.com/books
 
 No environment variables are required for this lab.
 
