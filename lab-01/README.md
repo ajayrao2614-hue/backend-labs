@@ -36,11 +36,17 @@ Create a Node.js web server using the built-in HTTP module and Express, add rout
 
 ## Screenshots
 
+### Home Route
+![Home](screenshots/home.png)
 
-- `screenshots/home.png` — home route
-- `screenshots/about.png` — about route
-- `screenshots/time.png` — time route
-- `screenshots/404.png` — 404 route
+### About Route
+![About](screenshots/about.png)
+
+### Time Route
+![Time](screenshots/time.png)
+
+### 404 Route
+![404](screenshots/404.png)
 
 ## Notes
 - Do not commit `node_modules/` or `.env`.
