@@ -41,7 +41,7 @@ Put your own screenshots in the `screenshots/` folder and uncomment/update these
 - `screenshots/home.png` — home route
 - `screenshots/about.png` — about route
 - `screenshots/time.png` — time route
-- `screenshots/404.png` — lab-01/screenshots/404.png
+- `screenshots/404.png` — 404 route
 
 ## Notes
 - Do not commit `node_modules/` or `.env`.
