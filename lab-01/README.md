@@ -33,10 +33,9 @@ Create a Node.js web server using the built-in HTTP module and Express, add rout
 | GET | `/time` | Returns current date and time as JSON | 200 |
 | GET | `/unknown` | Example of an unknown route | 404 |
 
-Replace `Your Name`, `Your Registration Number`, and `Your Section` with your details in `server.js` and this README.
 
 ## Screenshots
-Put your own screenshots in the `screenshots/` folder and uncomment/update these lines when the images are added:
+
 
 - `screenshots/home.png` — home route
 - `screenshots/about.png` — about route
