@@ -95,7 +95,7 @@ GET /books/
 
 **Screenshot:**
 
-![GET All Books](screenshots/get-all-books.png)
+![GET All Books](screenshots/Get-all.png)
 
 ### 2. GET - Retrieve Book by ID
 
@@ -106,7 +106,7 @@ GET /books/1/
 
 **Screenshot:**
 
-![GET Book by ID](screenshots/get-book-by-id.png)
+![GET Book by ID](screenshots/Get-one.png)
 
 ### 3. POST - Add a New Book
 
@@ -128,7 +128,7 @@ POST /books/
 
 **Screenshot:**
 
-![POST Add Book](screenshots/post-add-book.png)
+![POST Add Book](screenshots/post.png)
 
 ### 4. PUT - Update an Existing Book
 
@@ -150,7 +150,7 @@ PUT /books/1/
 
 **Screenshot:**
 
-![PUT Update Book](screenshots/put-update-book.png)
+![PUT Update Book](screenshots/put.png)
 
 ### 5. DELETE - Delete a Book
 
@@ -161,7 +161,7 @@ DELETE /books/1/
 
 **Screenshot:**
 
-![DELETE Book](screenshots/delete-book.png)
+![DELETE Book](screenshots/DELETE.png)
 
 ---
 
