@@ -14,6 +14,9 @@ npm run dev
 ```
 No environment variables are required. The server uses port `3000` by default and accepts the `PORT` environment variable when deployed. The SQLite database and `books` table are created automatically.
 
+## Live deployment
+[https://backend-labs-3-u424.onrender.com](https://backend-labs-3-u424.onrender.com)
+
 ## Endpoints
 
 | Method | Path | Description |
@@ -79,4 +82,4 @@ The Postman API test screenshots are available below.
 ![Screenshot 2026-11-06 121247](screenshots/Screenshot%202026-11-06%20121247.png)
 
 ## Submission
-Commit this folder as `lab-03/` in the course repository. Do not commit `node_modules`, database secrets, or `.env` files. Deploy the server and add its public URL above when available.
+Commit this folder as `lab-03/` in the course repository. Do not commit `node_modules`, database secrets, or `.env` files.
